@@ -1,0 +1,23 @@
+* {
+    color: white;
+    font-family: monospace;
+}
+
+body {
+    background-color: black;
+    min-height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#joke{
+    font-size: 1.3rem;
+}
+
+#instructions {
+    position: fixed;
+    bottom: 0;
+    font-size: 1.2rem;
+}
